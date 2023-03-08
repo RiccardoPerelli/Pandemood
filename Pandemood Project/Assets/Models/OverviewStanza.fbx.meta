@@ -1,0 +1,543 @@
+fileFormatVersion: 2
+guid: 0f3401dc19ee59343bbf380cf4d9ab2d
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -7346468157937166033
+    second: TicketATerra|CameraOverviewAction.001
+  - first:
+      74: 4977524719412185029
+    second: TicketATerra|Circle.000|Circle.000|SekundenAction|Circle.000|SekundenAction
+  - first:
+      74: -3848500363147955003
+    second: TicketATerra|Circle.000|Circle.000|Stunden|Circle.000|Stunden
+  - first:
+      74: 9096787807471268936
+    second: TicketATerra|Circle.016|Circle.016|SekundenAction|Circle.016|SekundenAction
+  - first:
+      74: 3841023597133275449
+    second: TicketATerra|Circle.016|Circle.016|Stunden|Circle.016|Stunden
+  - first:
+      74: -5310991581261850238
+    second: TicketATerra|Cube.001|Cube|SekundenAction|Cube|SekundenAction
+  - first:
+      74: 8259129410134516417
+    second: TicketATerra|Cube.001|Cube|Stunden|Cube|Stunden
+  - first:
+      74: 1300970489185188971
+    second: TicketATerra|Hemi|Hemi|SekundenAction|Hemi|SekundenAction
+  - first:
+      74: -5965331392165970944
+    second: TicketATerra|Hemi|Hemi|Stunden|Hemi|Stunden
+  - first:
+      74: -870769647904608328
+    second: TicketATerra|Minuten|Minuten|SekundenAction|Minuten|SekundenAction
+  - first:
+      74: -8768851014389332163
+    second: TicketATerra|Minuten|Minuten|Stunden|Minuten|Stunden
+  - first:
+      74: 7778920079995832883
+    second: TicketATerra|PalpebraAction
+  - first:
+      74: -3138843155366763681
+    second: TicketATerra|PalpebraAction.003
+  - first:
+      74: 6242782189062068053
+    second: TicketATerra|PalpebraAction.004
+  - first:
+      74: 1216301275321818403
+    second: TicketATerra|PalpebraAction.005
+  - first:
+      74: -8910574180601778826
+    second: TicketATerra|Sekunden|Sekunden|SekundenAction|Sekunden|SekundenAction
+  - first:
+      74: -7861445235350141253
+    second: TicketATerra|Sekunden|Sekunden|Stunden|Sekunden|Stunden
+  - first:
+      74: 8805696712863172164
+    second: TicketATerra|Stunden|Stunden|SekundenAction|Stunden|SekundenAction
+  - first:
+      74: 6858837683570987983
+    second: TicketATerra|Stunden|Stunden|Stunden|Stunden|Stunden
+  - first:
+      74: 1744821293380671926
+    second: BallFerma|CameraOverviewAction.001
+  - first:
+      74: 1198101407694687860
+    second: BallFerma|Circle.000|Circle.000|SekundenAction|Circle.000|SekundenAction
+  - first:
+      74: 3078818508302491776
+    second: BallFerma|Circle.000|Circle.000|Stunden|Circle.000|Stunden
+  - first:
+      74: 8415770080595096358
+    second: BallFerma|Circle.016|Circle.016|SekundenAction|Circle.016|SekundenAction
+  - first:
+      74: -4083833216712197666
+    second: BallFerma|Circle.016|Circle.016|Stunden|Circle.016|Stunden
+  - first:
+      74: -3684008377772334311
+    second: BallFerma|Cube.001|Cube|SekundenAction|Cube|SekundenAction
+  - first:
+      74: -455273487506089861
+    second: BallFerma|Cube.001|Cube|Stunden|Cube|Stunden
+  - first:
+      74: -4029743779910339285
+    second: BallFerma|Hemi|Hemi|SekundenAction|Hemi|SekundenAction
+  - first:
+      74: -7854653584400334964
+    second: BallFerma|Hemi|Hemi|Stunden|Hemi|Stunden
+  - first:
+      74: 7693368733386778041
+    second: BallFerma|Minuten|Minuten|SekundenAction|Minuten|SekundenAction
+  - first:
+      74: -6248843103831899701
+    second: BallFerma|Minuten|Minuten|Stunden|Minuten|Stunden
+  - first:
+      74: -8624501148387991173
+    second: BallFerma|PalpebraAction
+  - first:
+      74: 6433026289394130100
+    second: BallFerma|PalpebraAction.003
+  - first:
+      74: 6430302619260983927
+    second: BallFerma|PalpebraAction.004
+  - first:
+      74: 972731395968182615
+    second: BallFerma|PalpebraAction.005
+  - first:
+      74: 2668339569986090519
+    second: BallFerma|Sekunden|Sekunden|SekundenAction|Sekunden|SekundenAction
+  - first:
+      74: -7995297195602734373
+    second: BallFerma|Sekunden|Sekunden|Stunden|Sekunden|Stunden
+  - first:
+      74: 4367727967837676735
+    second: BallFerma|Stunden|Stunden|SekundenAction|Stunden|SekundenAction
+  - first:
+      74: 1073404438469483706
+    second: BallFerma|Stunden|Stunden|Stunden|Stunden|Stunden
+  - first:
+      74: -3380355874996160622
+    second: Orologio.001|CameraOverviewAction.001
+  - first:
+      74: -4315361990609050644
+    second: Orologio.001|Circle.000|Circle.000|SekundenAction|Circle.000|SekundenAction
+  - first:
+      74: 3345760773659049000
+    second: Orologio.001|Circle.000|Circle.000|Stunden|Circle.000|Stunden
+  - first:
+      74: 2354942953714925253
+    second: Orologio.001|Circle.016|Circle.016|SekundenAction|Circle.016|SekundenAction
+  - first:
+      74: -1161924859344609624
+    second: Orologio.001|Circle.016|Circle.016|Stunden|Circle.016|Stunden
+  - first:
+      74: 771100843372612657
+    second: Orologio.001|Cube.001|Cube|SekundenAction|Cube|SekundenAction
+  - first:
+      74: 1302532279100122535
+    second: Orologio.001|Cube.001|Cube|Stunden|Cube|Stunden
+  - first:
+      74: -6464642279399098245
+    second: Orologio.001|Hemi|Hemi|SekundenAction|Hemi|SekundenAction
+  - first:
+      74: 5619201191742209405
+    second: Orologio.001|Hemi|Hemi|Stunden|Hemi|Stunden
+  - first:
+      74: 3182798918634258196
+    second: Orologio.001|Minuten|Minuten|SekundenAction|Minuten|SekundenAction
+  - first:
+      74: 4087295614465592778
+    second: Orologio.001|Minuten|Minuten|Stunden|Minuten|Stunden
+  - first:
+      74: 4961691399628680291
+    second: Orologio.001|PalpebraAction
+  - first:
+      74: -4742738381589013775
+    second: Orologio.001|PalpebraAction.003
+  - first:
+      74: -3923336366088975697
+    second: Orologio.001|PalpebraAction.004
+  - first:
+      74: -5757265769355915360
+    second: Orologio.001|PalpebraAction.005
+  - first:
+      74: -4114534576690785107
+    second: Orologio.001|Sekunden|Sekunden|SekundenAction|Sekunden|SekundenAction
+  - first:
+      74: 4940161614998637409
+    second: Orologio.001|Sekunden|Sekunden|Stunden|Sekunden|Stunden
+  - first:
+      74: 5352708353739064360
+    second: Orologio.001|Stunden|Stunden|SekundenAction|Stunden|SekundenAction
+  - first:
+      74: -8741860600097335329
+    second: Orologio.001|Stunden|Stunden|Stunden|Stunden|Stunden
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bianco.001
+    second: {fileID: 2100000, guid: cf17322e83d0fc94aa123d42c96ae779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bianco.002
+    second: {fileID: 2100000, guid: 17c88c10de8596e48b6d96199a3311b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blu
+    second: {fileID: 2100000, guid: f90362ca04a000e43be099f4c9e60d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blu.001
+    second: {fileID: 2100000, guid: b7895223706482846b90e3f7eeb5d23b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carta
+    second: {fileID: 2100000, guid: f655d7f2f9b6ad1489c9bfb193a6dd6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clock.001
+    second: {fileID: 2100000, guid: fe8f8e5a96366654fac542db680bf777, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CopertaLettino
+    second: {fileID: 2100000, guid: 899e1d8dca05fb345b03926212a186ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cpu
+    second: {fileID: 2100000, guid: ef53a8749c408f7499c2205a4895bb28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cpu_Glass
+    second: {fileID: 2100000, guid: a81da4da8335a214894d514f198b9a4f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cuscino
+    second: {fileID: 2100000, guid: 581f1de7bc764d44f8d168757d194797, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grigio
+    second: {fileID: 2100000, guid: 462b2e1b2f64a0646896a430bf4ec354, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grigio.001
+    second: {fileID: 2100000, guid: 1db4fab7e02bb94448f645dde2da810e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grigio.002
+    second: {fileID: 2100000, guid: 890659befb20823479c9c307eefd54a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grigio.003
+    second: {fileID: 2100000, guid: 3282964682f001e4581d6f79715527db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KeepDistanceCorona
+    second: {fileID: 2100000, guid: 84a3088c91386484195c46f2900ee998, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegnoFinestra
+    second: {fileID: 2100000, guid: 86518e21a8e93be4e8e34748c00085fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegnoLettino
+    second: {fileID: 2100000, guid: ef7f61fb29adf844f88ef48aef797e1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegnoPiedi.002
+    second: {fileID: 2100000, guid: f081bfb926db5244385af52d9f98b597, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegnoPiediLettino
+    second: {fileID: 2100000, guid: 0a56d1163e285b74482367716034c9fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegnoQuadro
+    second: {fileID: 2100000, guid: 643107cbabcd6e84a80a91a17ab5f261, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.000
+    second: {fileID: 2100000, guid: 3e6e76400d69fc34c9a3e46cab0980f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.007
+    second: {fileID: 2100000, guid: 5996cd836b81fc44086729364b1cd56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.008
+    second: {fileID: 2100000, guid: 3fd2f2b1db103c64c9fda6093fdf506a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.009
+    second: {fileID: 2100000, guid: 77e3afb32d0af064c959a9d2647484ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Matress
+    second: {fileID: 2100000, guid: afd1cdf1d84a2e847bb920bd386c1d08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monitor_Body
+    second: {fileID: 2100000, guid: 8c1a782ae07902540b0aefdc72a726d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nero
+    second: {fileID: 2100000, guid: ac9e527c26a382c4f892c945d56c9439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nero.001
+    second: {fileID: 2100000, guid: 6ef41639cf34d074b9a9e7051fcee45f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nero.002
+    second: {fileID: 2100000, guid: b2158384aee6c284fbc186a6a5a619b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nero.003
+    second: {fileID: 2100000, guid: fda73cf974e17af49b5c567f929db46b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nero.004
+    second: {fileID: 2100000, guid: a22585d6abc63604e89486e47cf63b42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pavimento.001
+    second: {fileID: 2100000, guid: c8f6092d2be3e0b4d9eb7de08a13234b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RivestimentoSedia
+    second: {fileID: 2100000, guid: e942aaec57dfa1d41baf8608f89cb528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rossiccio
+    second: {fileID: 2100000, guid: 24aaa1697a9449446a197658ee2fe00c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rossiccio.001
+    second: {fileID: 2100000, guid: 401dcac98a6c30147a3fff61c6e78b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rossiccio.002
+    second: {fileID: 2100000, guid: 6eef864c2010c0748950785c01b86475, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SchermoTV
+    second: {fileID: 2100000, guid: 873ca88e0d642044ba62f70e7791c7b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sec_Zeiger.001
+    second: {fileID: 2100000, guid: 2d61e6d3998ac29468fc91f1873ee6f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StopCorona
+    second: {fileID: 2100000, guid: 24e34a7fbc6286546817883394289cd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StopCovid
+    second: {fileID: 2100000, guid: 7089602b563014c40ac3c0fb5c73e700, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV.001
+    second: {fileID: 2100000, guid: 21cc945b496cd5445aa38d500a82c037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tappeto
+    second: {fileID: 2100000, guid: 89ef25652723c6043a03cabbcbc5e67f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ticket
+    second: {fileID: 2100000, guid: e543a55031ac0be4595bbaa38a06c965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verdognolo
+    second: {fileID: 2100000, guid: 53f0f79f4bcfffe4fbf0b3dfbacc4a03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Verdognolo.001
+    second: {fileID: 2100000, guid: f8e37a7baa87f644bb88630ede46cd5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall
+    second: {fileID: 2100000, guid: ea4f3e0287185a04f9dd6517f54fa5dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2
+    second: {fileID: 2100000, guid: b317699aeadc9c8499b06096f95b31fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: min_Zeiger.001
+    second: {fileID: 2100000, guid: cf5dbc7b251e0af4aafba9dfea1ab54e, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 07_CILIEGIO-F01-107R
+    second: {fileID: 2800000, guid: 23aabca1b1cd7de4fa0290413d5fd6a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clock
+    second: {fileID: 2800000, guid: 1368a0bebe3d50d409e11ae365ca3f35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Legno Finestra
+    second: {fileID: 2800000, guid: 0f027191a13d1ce4791f89c0eb1ca317, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tappeto
+    second: {fileID: 2800000, guid: 25665f4bca5261c45a8193329a7766d5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Texture
+    second: {fileID: 2800000, guid: 6028a9c59ba13454aa9e919c2d605247, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: baan-tawai-wood-texture
+    second: {fileID: 2800000, guid: 8e7e785c262a83449b22c614629d5b30, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: quadri_colonia_celeste_001-300x300
+    second: {fileID: 2800000, guid: b1d945a715c59064990d4b99e617796a, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
